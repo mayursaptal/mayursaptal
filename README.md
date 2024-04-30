@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  mayursaptal@gmail.com
+  +9970708983
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
