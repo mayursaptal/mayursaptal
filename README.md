@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mayursaptal/mayursaptal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:mayursaptal@gmail.com">  mayursaptal@gmail.com</a> <br>
-<a href="tel:+91 9970708983">  +91 9970708983</a>
+<a href="tel:+919970708983">  +91 9970708983</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
