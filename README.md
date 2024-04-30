@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  mayursaptal@gmail.com
-  +9970708983
+  <a href="mailto:mayursaptal@gmail.com">  mayursaptal@gmail.com</a> <br>
+<a href="tel:+91 9970708983">  +91 9970708983</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
